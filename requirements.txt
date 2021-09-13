@@ -3,3 +3,4 @@ fastapi
 python-jose
 bcrypt
 passlib
+python-multipart
